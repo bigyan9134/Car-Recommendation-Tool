@@ -1,4 +1,4 @@
-# Fuel-Economy-Analysis-of-All-Cars-Sold-in-the-US
+# Car Recommendation tool based on Fuel Economy Analysis
 
 This workbook uses data provided by the Environment Protection Agency regarding the fuel usage and
 efficiency of all car models sold in the US from 1984 - 2017.
@@ -14,3 +14,15 @@ the most recent model year as well as across all years.
 This tool has practical real-world applicaiton in helping a potential car buyer become aware of a car's
 associated fuel costs and carbon footprint and could convince a buyer to make more environmentally
 as well as economy friendly car make and model.
+
+Techniques used:
+
+  1. Hypothesis testing - T-test, Z-test
+  2. Data Transformation
+  3. Data Visualization
+  4. Data Analysis
+
+Tools used:
+  
+  1. MS Excel
+  2. Python (for data cleaning and transformation)
